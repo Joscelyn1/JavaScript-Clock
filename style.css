@@ -55,3 +55,16 @@ html {
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
   }
+
+  @media(max-width: 800px) {
+      .digital-clock {
+          font-size: 9rem;
+      }
+  }
+
+
+  @media(max-width: 500px) {
+    .digital-clock {
+        font-size: 7rem;
+    }
+}
