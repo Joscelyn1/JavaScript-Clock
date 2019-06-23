@@ -1,10 +1,11 @@
 # JavaScript Clock
 
-One Paragraph of project description goes here
+Checkout the time on this cool looking clock.
 
 ## Getting Started
 
 Click on the link below:
+https://joscelyn1.github.io/JavaScript-Clock/
 
 
 ## Built With
