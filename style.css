@@ -57,6 +57,18 @@ html {
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
   }
 
+  .hour-hand {
+      width: 40%;
+      transform-origin: 100%;
+      left: 10%;
+  }
+
+  .second-hand {
+      width: 53%;
+      right: 50%;
+  }
+
+ 
   @media(max-width: 800px) {
       .digital-clock {
           font-size: 9rem;
